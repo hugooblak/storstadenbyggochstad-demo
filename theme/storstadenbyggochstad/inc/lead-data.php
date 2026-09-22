@@ -14,7 +14,5 @@ return array(
 		array( 'Very pleased with the services and would highly recommend.', 'Fabio', 'för 5 år sedan' ),
 		array( 'Anlita aldrig det bolaget!', 'Farhad Nabizada', 'för 3 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg' ),
 	'ar_riktig'      => true,
 );
