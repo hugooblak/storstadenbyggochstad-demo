@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Storstaden Bygg & Städservice AB',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '076-722 33 33',
 	'telefon_tel'    => '+46767223333',
 	'betyg'          => '4,7',
